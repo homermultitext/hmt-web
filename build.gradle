@@ -1,0 +1,63 @@
+import edu.holycross.shot.mdweb.SiteBuilder
+import org.pegdown.PegDownProcessor
+
+buildscript {
+    repositories {
+        mavenCentral()
+	// for mdweb library
+        maven {
+            url "http://beta.hpcc.uh.edu/nexus/content/repositories/releases"
+        }
+	// for pegdown library
+        maven {
+            url "https://repository.jboss.org/nexus/content/repositories/scala-tools-releases"
+        }
+    }
+    dependencies {
+        classpath  group: 'edu.holycross.shot', name : 'mdweb' , version: "0.3.1"
+        classpath group: 'org.pegdown', name : 'pegdown', version: "1.0.1"
+    }
+}
+
+apply plugin: "base"
+
+apply from: "conf.gradle"
+
+
+group = "edu.harvard.chs"
+version = '0.1.1'
+
+
+
+task raw(type:Copy) {
+    from rawdirectory
+    into "${buildDir.path}/web/guides"
+    include "**/*.*"
+}
+
+
+task css(type:Copy) {
+    from cssdirectory
+    into "${buildDir.path}/web/css"
+    include "**.css"
+}
+
+task imgs(type:Copy) {
+    from "md"
+    into "${buildDir.path}/web"
+    include "**/*.jpg", "**/*.jpeg", "**/*.png"
+}
+
+task web(dependsOn: [css, imgs, raw]) {
+    description =  "Use mdweb library to build web site"
+    doLast {
+        File src = new File(srcdirectory)
+        if (!buildDir.exists()) {
+            buildDir.mkdir()
+        }
+        File out = new File("${buildDir.path}/web")
+        SiteBuilder sb = new SiteBuilder(src,out)
+        sb.buildSite()
+    }
+}
+

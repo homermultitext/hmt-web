@@ -1,0 +1,6 @@
+
+project.ext {
+	    srcdirectory =	"md"
+	    cssdirectory = "css"
+	    rawdirectory = "html/guides"
+}
