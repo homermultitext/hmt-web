@@ -38,10 +38,11 @@
 
 - [Nagy, G. “Homer Multitext project.” In _Online Humanities Scholarship: The Shape of Things to Come_, ed. J. McGann. Rice University Press, 2010.](http://rup.rice.edu/cnx_content/shape/m34314.html)
 
-
 - Smith, N. “Digital infrastructure and the Homer Multitext project.” In _Digital Research in the Study of Classical Antiquity,_ edited by G. Bodard and S. Mahony. Ashgate, 2010.
 
 - [Smith, N. “Citation in Classical Studies.” _Digital Humanities Quarterly_ 3.1 (Winter, 2009).](http://www.digitalhumanities.org/dhq/vol/3/1/000028/000028.html)
+
+- [Smith, N., Weaver, G., “Applying Domain Knowledge from Structured Citation Formats to Text and Data Mining: Examples Using the CITE Architecture” _Dartmouth Computer Science Technical Report TR2009-649_ 2009.](http://katahdin.cs.dartmouth.edu/reports/TR2009-649.pdf)
 
 
 
