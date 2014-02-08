@@ -1,4 +1,5 @@
 index.md=The Homer Multitext project: home page
+welcome.md=Welcome to the Homer Multitext project!
 about.md=About the project
 collaboration.md=Collaboration
 publications.md=Publications

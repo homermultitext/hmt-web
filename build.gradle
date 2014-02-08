@@ -16,7 +16,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath  group: 'edu.holycross.shot', name : 'mdweb' , version: "0.4.1"
+        classpath  group: 'edu.holycross.shot', name : 'mdweb' , version: "0.4.2"
         classpath group: 'edu.harvard.chs', name : 'citedown', version: "1.2.1.0.1.0"
     }
 }

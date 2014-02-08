@@ -12,6 +12,7 @@
 - The Biblioteca Marciana, Venice, Italy
 - The Milman Parry Collection
 - The Perseus Project
+- The [Holy Cross Manuscripts, Inscriptions and Documents Club](http://shot.holycross.edu/hcmid/)
 
 # Funding Agencies and Foundations# 
 
