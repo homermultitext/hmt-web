@@ -1,9 +1,6 @@
-# Table of contents file in format "filename Title for page"
-# where white space separates a filename from the title.
-# Lines beginning with # are treated as comments and are ignored,
-# as are empty lines.
-
-index.md=The Homer Multitext project
-
+index.md=The Homer Multitext project: home page
+about.md=About the project
+collaboration.md=Collaboration
+publications.md=Publications
 
 
