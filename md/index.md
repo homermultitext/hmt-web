@@ -1,7 +1,7 @@
 # The Homer Multitext: home page
 
 - Welcome!  Read an [introduction to the project](welcome.html),  and [more information about the project](about.html).
-- [Collaborations](collaborations.html)
+- [Collaborations](collaboration.html)
 - [Some publications](publications.html)
 - HMT digital archive:
     - the [2014.1 publication](http://amphoreus.hpcc.uh.edu/hmtdigital/)
