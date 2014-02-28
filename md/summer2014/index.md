@@ -4,7 +4,7 @@ This year's seminar will run from June 19 (arrival) - July 3 (departure), and wi
 
 - Furman University
 - Gustavus Adolphus College: Eric Dugdale, Amy Goblirsch, James Skoog.
-- College of the Holy Cross
+- College of the Holy Cross:  Mary Ebbott, Charlie Schuhmacher, Neel Smith, Melody Wauke
 - University of Houston
 - Universiteit Leiden
 - Trinity University: Kirsten Endresen, Jacob Luber, Corinne Pache
