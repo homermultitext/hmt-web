@@ -9,6 +9,7 @@
     - our published version (coming soon with edition 2014.1)
 - The HMT [archive](hmtdigital.html)
  - [Documentation](hmt-docs), include guides for contributors, and technical documentation
+ - [Summer seminar 2014](summer2014)
 
 
 
