@@ -3,7 +3,7 @@
 This year's seminar will run from June 19 (arrival) - July 3 (departure), and will include participants from:
 
 - Furman University
-- Gustavus Adolphus College
+- Gustavus Adolphus College: Eric Dugdale, Amy Goblirsch, James Skoog.
 - College of the Holy Cross
 - University of Houston
 - Universiteit Leiden
