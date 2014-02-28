@@ -52,7 +52,7 @@
 
 # Diplomatic Editions of Medieval Manuscripts# 
 
-# Digitization of _Venetus_ A, _Venetus_ B, and U<span class="superscript">4_ Manuscripts in the Marciana Library in Venice, Italy# 
+# Digitization of _Venetus_ A, _Venetus_ B, and Marciana 841 Manuscripts in the Marciana Library in Venice, Italy# 
 
 - Steve Bailey, Documentary Video
 - Ryan Baumann, Software Engineer
