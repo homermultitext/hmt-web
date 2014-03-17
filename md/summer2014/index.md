@@ -9,7 +9,7 @@ This year's seminar will run from June 19 (arrival) - July 3 (departure), and wi
 - Universiteit Leiden:  Michiel Cock, Kirsten Haijes, Ineke Sluiter, Suzanne Verkade
 - Trinity University: Kirsten Endresen, Jacob Luber, Corinne Pache
 - University of Washington: Ian Jones, Olga Levaniouk, Malia Pipier
-- HMT: Stephanie Lindeborg
+- Homer Multitext project manager: Stephanie Lindeborg
 
 
 Detailed information about the seminar will be posted here soon.
