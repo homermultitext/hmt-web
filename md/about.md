@@ -8,7 +8,7 @@ Co-Editors: Douglas Frame, Leonard Muellner, Gregory Nagy
 
 For the latest news on the Homer Multitext, see the [Homer Multitext blog](http://homermultitext.blogspot.com).
 
-The Homer Multitext project, the first of its kind in Homeric studies, seeks to present the textual transmission of the Iliad and Odyssey in a historical framework. Such a framework is needed to account for the full reality of a complex medium of oral performance that underwent many changes over a long period of time. These changes, as reflected in the many texts of Homer, need to be understood in their many different historical contexts. The Homer Multitext provides ways to view these contexts both synchronically and diachronically.
+The Homer Multitext project seeks to present the textual transmission of the Iliad and Odyssey in a historical framework. Such a framework is needed to account for the full reality of a complex medium of oral performance that underwent many changes over a long period of time. These changes, as reflected in the many texts of Homer, need to be understood in their many different historical contexts. The Homer Multitext provides ways to view these contexts both synchronically and diachronically.
 
 Using technology that takes advantage of the best available practices and open source standards that have been developed for digital publications in a variety of fields, the Homer Multitext offers free access to a library of texts and images, a machine-interface to that library and its indices, and tools to allow readers to discover and engage with the Homeric tradition.
 

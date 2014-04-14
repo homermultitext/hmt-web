@@ -19,7 +19,7 @@ The Homer Multitext is creating complete diplomatic editions of Byzantine manusc
 
 ## Openly Licensed Images of Homeric Manuscripts
 
-Thanks to fruitful collaborations with the Biblioteca Marciana in Venice, the Real Monasterio de El Escorial in Madrid, and the Owner of the Archimedes Palimpsest, we are pleased to offer a collection of images of ancient manuscripts under open licenses that offer access to scholars, students, and anyone interested in studying these artifacts of cultural heritage.
+Thanks to fruitful collaborations with the Biblioteca Marciana in Venice, the Real Monasterio de El Escorial in Madrid, we are pleased to offer a collection of images of ancient manuscripts under open licenses that offer access to scholars, students, and anyone interested in studying these artifacts of cultural heritage.
 
 The archive of images can be found at <http://www.homermultitext.org/hmt-image-archive>.
 
