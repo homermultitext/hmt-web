@@ -1,4 +1,4 @@
-# Welcome to the Homer Multitext
+# Overview of the Homer Multitext project
 
 The Homer Multitext project seeks to present the Homeric *Iliad* and *Odyssey* in a critical framework that accounts for the fact that these poems were composed orally over the course of hundreds, if not thousands of years by countless singers who composed in performance. The evolution and the resulting multiformity of the textual tradition, reflected in the many surviving texts of Homer, must be understood in its many different historical contexts. Using technology that takes advantage of the best available practices and open source standards that have been developed for digital publications in a variety of fields, the Homer Multitext offers free access to a library of texts and images and tools to allow readers to discover and engage with the Homeric tradition.
 
