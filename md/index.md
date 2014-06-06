@@ -1,6 +1,8 @@
 # The Homer Multitext: home page
 
-- Welcome!  Read an [introduction to the project](welcome.html),  and [more information about the project](about.html).
+Welcome!  
+
+- Read an [introduction to the project](welcome.html),  and [more information about the project](about.html).
 - [Collaborations](collaborations.html)
 - [Some publications](publications.html)
 - HMT digital archive:
