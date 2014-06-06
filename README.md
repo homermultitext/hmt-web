@@ -1,6 +1,6 @@
 # hmt-web
 
-Source repository for the Homer Multitext project web site, <http://www.homermultitext.org>.
+Source repository for the Homer Multitext project web site, <http://www.homermultitext.org>.  If you find errors or have suggested additions, please feel free to send us a pull request.
 
 This repository uses the `cdweb` library to generate a web site from source pages written in markdown.
 

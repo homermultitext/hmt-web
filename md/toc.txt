@@ -1,6 +1,9 @@
 index.md=The Homer Multitext project: home page
 welcome.md=Welcome to the Homer Multitext project!
 about.md=About the project
+hmtdigital.md=The HMT digital archive
+apps.md=Applications for using the HMT archive
+downloads.md=Downloadable archival data
 collaboration.md=Collaboration
 publications.md=Publications
 
