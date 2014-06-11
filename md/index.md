@@ -1,11 +1,7 @@
 # The Homer Multitext: home page
 
-<<<<<<< HEAD
-Welcome!  
 
-- Read an [introduction to the project](welcome.html),  and [more information about the project](about.html).
-- [Collaborations](collaborations.html)
-=======
+
 Welcome!  Read an [introduction to the project](welcome.html),  and [more information about the project](about.html).
 
 ## News ##
