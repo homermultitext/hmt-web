@@ -19,7 +19,6 @@ Welcome!  Read an [introduction to the project](welcome.html),  and [more inform
 - The HMT [archive](hmtdigital.html)
  - [Documentation](hmt-docs), include guides for contributors, and technical documentation
 - [Collaborations](collaboration.html)
->>>>>>> 1993404d82a8b5f415b19585b2c93989da10b2a8
 - [Some publications](publications.html)
 
 
