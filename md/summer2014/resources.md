@@ -9,6 +9,7 @@ In the CHS library:
 
 Links:
 
+- CHS Summer Seminar github organization
 - CHS Sakai site
 - HMT project guide for editors
 
