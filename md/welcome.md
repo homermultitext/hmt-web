@@ -4,6 +4,8 @@ The Homer Multitext project seeks to present the Homeric *Iliad* and *Odyssey* i
 
 The Homer Multitext is a long-term project emphasizing collaborative research (we are particularly interested in undergraduate research), openly licensed data, and innovative uses of technology. The Homer Multitext welcomes collaboration in the form of diplomatic editions, images of historical documents, and translations. All material must be openly licensed and attribution will be given to the contributors. Please contact Casey Dué (casey@chs.harvard.edu) and Mary Ebbott (ebbott@chs.harvard.edu).
 
+<<<<<<< HEAD
+=======
 ## Apps for end users
 
 
@@ -24,3 +26,4 @@ Thanks to fruitful collaborations with the Biblioteca Marciana in Venice, the Re
 The archive of images can be found at <http://www.homermultitext.org/hmt-image-archive>.
 
 Please note that these images are copyrighted to their respective owners, and that the assigned licenses define and limit the terms under which we can use them ourselves and make them available to others. Parties interested in securing other rights should contact the copyright-holding institutions directly.
+>>>>>>> 1993404d82a8b5f415b19585b2c93989da10b2a8
