@@ -20,6 +20,7 @@ Welcome!  Read an [introduction to the project](welcome.html),  and [more inform
  - [Documentation](hmt-docs), include guides for contributors, and technical documentation
 - [Collaborations](collaboration.html)
 - [Some publications](publications.html)
+- [Manuscripts and Papyri](primarysources.html)
 
 
 

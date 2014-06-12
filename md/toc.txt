@@ -6,5 +6,6 @@ apps.md=Applications for using the HMT archive
 downloads.md=Downloadable archival data
 collaboration.md=Collaboration
 publications.md=Publications
+primarysources.md=Manuscripts and Papyri
 
 
