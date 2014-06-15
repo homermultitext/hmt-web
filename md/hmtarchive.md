@@ -16,7 +16,7 @@ In addition to our editorial work, the HMT project hosts an archive of [download
 
 - HMT project github repository: <http://homermultitext.github.io/>
 - HMT project archive of images: <http://www.homermultitext.org/hmt-image-archive/>
-- test site with work in progress: <http://beta.hpcc.uh.edu/tomcat/hmtdigital/>
+
 
 
 [1]: http://homermultitext.github.io/
@@ -24,5 +24,3 @@ In addition to our editorial work, the HMT project hosts an archive of [download
 [2]: http://www.homermultitext.org/hmt-image-archive/
 
 [3]: http://git-scm.com/
-
-[4]: http://beta.hpcc.uh.edu/tomcat/hmtdigital/

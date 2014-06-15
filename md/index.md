@@ -13,7 +13,7 @@ Welcome!  Read an [introduction to the project](welcome.html),  and [more inform
 
 - HMT project blog: <http://homermultitext.blogspot.com/>
 - HMT Digital:  [online services and applications](hmtdigital.html)
-- The HMT [archive](hmtarchive.html)
+- The HMT [digital archive](hmtarchive.html)
  - [Documentation](hmt-docs), include guides for contributors, and technical documentation
 - [Collaborations](collaboration.html)
 - [Some publications](publications.html)
