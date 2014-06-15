@@ -12,5 +12,5 @@ venetusB.md=Venetus B
 marciana458.md=Marciana 458
 upsilon-1-1.md=Escorial Y I.1
 omega-1-12.md=Escorial Ω I.12
-genevensis44.md=Genevensis 44
+genavensis44.md=Genevensis 44
 papyri.md=Papyri
