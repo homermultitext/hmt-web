@@ -4,7 +4,6 @@ about.md=About the project
 hmtdigital.md=Online applications and data services
 hmtarchive.md= The HMT project digital archive
 maven.md=Maven identifiers for published issues of the HMT archive
-downloads.md=Downloadable archival data
 collaboration.md=Collaboration
 publications.md=Publications
 venetusA.md=Venetus A
