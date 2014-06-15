@@ -4,12 +4,11 @@ Marciana 458 is a 12th or 13th century CE manuscript of the *Iliad*. The origina
 
 ## Links ##
 
-- [Beta Manuscript browser][1] (new browser forthcoming)
 - [Downloadable Data][2]
 
 ## Related publications and scholarship ##
 - [Articles on the Marciana 458 from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Marciana%20458)
 
-[1]: http://pelike.hpcc.uh.edu/hmtdigital/svcforms
+[1]: http://pelike.hpcc.uh.edu/hmtdigital/mss
 
 [2]: http://www.homermultitext.org/hmt-image-archive/

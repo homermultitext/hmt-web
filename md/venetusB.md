@@ -5,12 +5,12 @@ The manuscript consists of 338 folios (40.5 x 31.5 cm). The 11th-century text an
 
 ## Links ##
 
-- [Beta Manuscript browser][1] (new browser forthcoming)
-- [Downloadable Data][2]
+- Test version of [manuscript browser][1]
+- [Downloadable data][2]
 
 ## Related publications and scholarship ##
 - [Articles on the Venetus B from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Venetus%20B)
 
-[1]: http://pelike.hpcc.uh.edu/hmtdigital/svcforms
+[1]: http://pelike.hpcc.uh.edu/hmtdigital/mss
 
 [2]: http://www.homermultitext.org/hmt-image-archive/
