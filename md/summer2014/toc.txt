@@ -3,3 +3,7 @@ overview.md=Overview of the seminar
 travel.md=Travel to CHS
 participants.md=Participants
 prep.md=Preparation prior to the seminar
+schedule.md=Schedule
+totalediting.md=An overview of the "total editing" process
+resources.md=Some links and resources
+
