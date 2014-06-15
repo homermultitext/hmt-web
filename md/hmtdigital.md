@@ -1,9 +1,14 @@
-# Applications and data services #
+# `hmtdigital`: online applications and data services #
+
+##Most current##
+
+See our test system at <http://beta.hpcc.uh.edu/tomcat/hmtdigital/>.
+
+Data in the central archive are automatically converted into an RDF graph, and loaded into an RDF server  each night.  
+
+Test versions of new applications will be available here prior to publication of release versions of `hmtdigital`, but may not be stable.
 
 
+## Most stable ##
 
-
-
-All data in the central archive are automatically converted into an RDF graph every night, and loaded into an RDF server on a test machine.   We are currently running an end-user [application for viewing and retrieving material][4] on this test machine.
-
-Our `2014.1` and subsequent citable publications will be available from a separate address, which will be linked here.
+We are working on a published release of the `hmtdigital` application to appear at <http://amphoreus.hpcc.uh.edu/hmtdigital/>.  Data will always be drawn from citable published  versions.   We are currently testing applications with the `2014.1` data release on <http://pelike.hpcc.uh.edu/hmtdigital/>.

@@ -12,11 +12,8 @@ Welcome!  Read an [introduction to the project](welcome.html),  and [more inform
 ## Links
 
 - HMT project blog: <http://homermultitext.blogspot.com/>
-- HMT on github: <http://homermultitext.github.io/>
-- HMT Digital:  online services and applications
-    - on our experimental system, <http://beta.hpcc.uh.edu/tomcat/hmtdigital/>
-    - our published version (coming soon with edition 2014.1)
-- The HMT [archive](hmtdigital.html)
+- HMT Digital:  [online services and applications](hmtdigital.html)
+- The HMT [archive](hmtarchive.html)
  - [Documentation](hmt-docs), include guides for contributors, and technical documentation
 - [Collaborations](collaboration.html)
 - [Some publications](publications.html)
