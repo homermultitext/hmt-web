@@ -1,6 +1,6 @@
 
 project.ext {
 	    srcdirectory =	"md"
-	    cssdirectory = "hmt-css-core-0.0.1/css"
+	    cssdirectory = "hmt-css-core-0.0.2-hack/css"
 	    rawdirectory = "html/guides"
 }
