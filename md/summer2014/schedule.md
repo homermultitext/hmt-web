@@ -1,7 +1,9 @@
 # Homer Multitext project: summer seminar 2014 #
 
 
-Regular seminar sessions are held in House A. The location of other events is noted on the schedule.  Links are to reading or other assignments you should complete *before* the session.
+Regular seminar sessions are held in House A. The location of other events is noted on the schedule.  
+
+In the table below, links are to reading or other assignments you should complete *before* the session.
 
 
 ## Introduction to the seminar, June 19-June 21 ##
@@ -17,11 +19,12 @@ Regular seminar sessions are held in House A. The location of other events is no
 
 ## Editing *Iliad* 12, June 23-June 27 ##
 
+
 | Date | Topic | Follow-up assignment |
 |------|-------|----------------------|  
 | Mon., June 23, 9:00 am | Texts and markup | |  
-| Mon., June 23, 2:00 pm | *Iliad* 12 as oral, traditional poetry | |  
-| Tues., June 24, 9:00 am | Evolution of the Homeric poems and the historical documents that transmit them | |  
+| Mon., June 23, 2:00 pm | [*Iliad* 12 as oral, traditional poetry][il12] | |  
+| Tues., June 24, 9:00 am | [Evolution of the Homeric poems and the historical documents that transmit them][homericgreek] | |  
 | Tues., June 24, 2:00 pm | Introduction to reading scholia (Including skype conference with HMT teams at Holy Cross) | |  
 | Wed., June 25, 9:00 am | Data models for scholarship using the CITE architecture | |  
 | Wed., June 25, 2:00 pm | Analyzing visual organization (*mise en page*) of Venetus A | |  
@@ -64,4 +67,5 @@ Regular seminar sessions are held in House A. The location of other events is no
 
 
 
+[il12]: reading/iliad12.html
 
