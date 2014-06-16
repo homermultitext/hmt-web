@@ -5,6 +5,7 @@ participants.md=Participants
 prep.md=Preparation prior to the seminar
 schedule.md=Schedule
 totalediting.md=An overview of the "total editing" process
+VH2014.md="The Venetian Homer in 2014"
 resources.md=Some links and resources
 
 

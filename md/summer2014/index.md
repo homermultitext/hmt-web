@@ -6,6 +6,10 @@ giving undergraduate and faculty teams hands-on experience contributing to the p
 - See an [overview of this year's seminar](overview.html).
 - [Schedule of events](schedule.html)
 
+## Collaborative projects ##
+
+- ["total edition" of *Iliad* 12](totalediting.html) in the Venetus A manuscript
+- "[The Venetian Homer in 2014](VH2014.html)": update of a nineteenth century study by Thomas W. Allen
 
 ## Important background information for participants ##
 

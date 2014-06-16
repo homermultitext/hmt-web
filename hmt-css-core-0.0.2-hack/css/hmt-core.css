@@ -120,6 +120,11 @@ ul, ol {
 ul {
   list-style-type: circle; }
 
+
+ol {
+  list-style-type: lower-greek; }
+
+
 li {
   margin: 0.5em 0 0.5em 0; }
 

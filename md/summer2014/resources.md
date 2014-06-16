@@ -10,11 +10,11 @@ In the CHS library:
 
 Links:
 
-- CHS Summer Seminar github organization
-- CHS Sakai site
 - HMT project guide for editors
-- Dindorf edition (pdf)
-- Erbse edition
+- [CHS Summer Seminar github organization](http://hmt-seminar-2014.github.io/)
+- CHS Sakai site
+- Dindorf edition of Venetus A scholia (pdf)
+- Erbse composite scholia edition
 
 
 
