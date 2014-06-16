@@ -13,7 +13,6 @@
 ## Technical skills covered in summer 2014 workshop ##
 
 - use version control (`git`) to manage your collaborative work
-- use 
 - use virtual machines (Virutal Box, provisioned by Vagrant) to work in a standard environment
 - use `bash` shell to work in a POSIX environment
 - cite scholarly resources with URNs (CTS URNs, and CITE Object URNs)
