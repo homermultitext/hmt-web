@@ -11,11 +11,13 @@ giving undergraduate and faculty teams hands-on experience contributing to the p
 - ["total edition" of *Iliad* 12](totalediting.html) in the Venetus A manuscript
 - "[The Venetian Homer in 2014](VH2014.html)": update of a nineteenth century study by Thomas W. Allen
 
+See [team assignments](teams.html) for collaborative projects
+
 ## Important background information for participants ##
 
 - [Preparation and prerequisites](prep.html) prior to coming to Washington.
 - Information about [travel to and housing at CHS](travel.html)
-- Roster of [participants](participants.html)
+- Roster of [participants by institution](participants.html)
 
 
 
