@@ -11,8 +11,8 @@ In the table below, links are to reading or other assignments you should complet
 
 | Date | Topic | Follow-up assignment |
 |------|-------|----------------------|
-|Th., June 19, 6:00 pm |   Informal reception, **CHS Common Room**   |  |
-| Fri., June 20, 9:00 am |  Orientation:  the Homer Multitext virtual machine | Teams begin paleographic annotation of *Iliad* text |  
+|Th., June 19, 6:00 pm |   [Informal reception, **CHS Common Room**](opener.html)   |  |
+| Fri., June 20, 9:00 am |  [Orientation:  the Homer Multitext virtual machine][vm] | Teams begin paleographic annotation of *Iliad* text |  
 |  Fri., June 20, 2:00 pm | Orientation:  CHS library and facilities, **CHS Common Room** | Teams begin hard-copy editing of *Iliad* text  
 | Sat., June 21, 9:00 am | The HMT project and the CITE architecture| Teams begin work for "The Venetian Homer in 2014"  |  
 | Sat., June 21, 2:00 pm | [Parry and Lord; Homeric Questions as background of the Multitext project][parrylord]| Complete paleographic annotation and hard-copy editing of *Iliad* text|  
@@ -69,7 +69,7 @@ In the table below, links are to reading or other assignments you should complet
 
 [built]: reading/mslayout.html
 
-
+[vm]:  reading/vm.html
 
 [il12]: reading/iliad12.html
 

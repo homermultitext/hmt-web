@@ -1,12 +1,11 @@
 index.md=Summer seminar 2014
 overview.md=Overview of the seminar
-travel.md=Travel to CHS
-participants.md=Participants
-prep.md=Preparation prior to the seminar
 schedule.md=Schedule
 projects.md=Projects
 totalediting.md=An overview of the "total editing" process
 VH2014.md="The Venetian Homer in 2014"
 resources.md=Some links and resources
-
-
+travel.md=Travel to CHS
+participants.md=Participants
+prep.md=Preparation prior to the seminar
+opener.md=Opening reception
