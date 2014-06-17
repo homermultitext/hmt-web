@@ -32,7 +32,7 @@ In the table below, links are to reading or other assignments you should complet
 | Thurs., June 26, 2:00 pm | Some statistical questions about the Venetus A| |  
 | Fri., June 27, 9:00 am | Working with writing in citedown format | |  
 | Fri., June 27, 2:00 pm | Using regular expressions to create a citable translation of Proclus, *Chrestomathy* | |  
-| Fri., June 28, 6:00 pm | Catered dinner, **CHS dining room**| |
+| Fri., June 27, 6:00 pm | Catered dinner, **CHS dining room**| |
 
 ## Preliminary research results,  June 30-July 2 ##
 
