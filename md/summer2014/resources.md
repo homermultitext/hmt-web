@@ -12,6 +12,7 @@ Links:
 
 - Test site for [HMT digital material](http://beta.hpcc.uh.edu/tomcat/hmtdigital/)
 - HMT project guide for editors:  [2013 edition](http://www.homermultitext.org/hmt-docs/HMTstyle-preview.pdf)
+- Searchable [authority lists](https://github.com/homermultitext/hmt-authlists/tree/master/data) for personal name and place name identifiers
 - [CHS Summer Seminar github organization](http://hmt-seminar-2014.github.io/)
 - [CHS Sakai site](http://sakai.chs.harvard.edu/portal)
 - Some [pdfs of relevant public-domain publications](http://www.homermultitext.org/pd-pdfs/), including:
@@ -22,5 +23,7 @@ Links:
 Tips, good utilties:
 
 - [Typing accented Greek](tips/typingGreek.html)
+- A key to [typographic conventions in Erbse](tips/erbse-key.html)
+- A page where you can copy and paste some [hard-to-type characers](tips/pasteboard.html)
 
 
