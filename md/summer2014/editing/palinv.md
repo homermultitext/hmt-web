@@ -21,3 +21,13 @@ Objects in the collection have four properties:  you can see that the `.csv` fil
 - **Image** will consist of the full URN reference, including the region of interest coordinates, acquired using the image citation tool. In your table, be sure to place this reference  in quotes "..." to protect the commas of the region of interest from being misinterpreted as columns of your table.
 - **Comments** will consist of any further notes you have to add on the image you have indexed. This column can be left blank if no comment is necessary.
 
+
+## Verifying your work ##
+
+We cannot computationally verify your visual indices, but we do want to provide a different method of visually reviewing your index. HMT-MOM includes a task that will create a web page where you can visually survey your index.
+
+Within your editing repository, you should find a shell script called `palview.sh` that you can run within your virtual machine: 
+
+       sh palview.sh
+
+This will create in the hmt-mom build directory a web page called `paleographyViewer.html` that you can open in a web browser in your host operating system.
