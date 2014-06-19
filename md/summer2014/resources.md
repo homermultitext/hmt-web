@@ -7,6 +7,10 @@ In the CHS library:
 - 7-volume set of Erbse scholia
 - West 3-volume edition with apparatus
 
+In each team's office at CHS:
+
+- LSJ
+- Dickey, *Ancient Greek Scholarship*
 
 Links:
 
