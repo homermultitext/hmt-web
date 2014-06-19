@@ -25,5 +25,4 @@ Tips, good utilties:
 - [Typing accented Greek](tips/typingGreek.html)
 - A key to [typographic conventions in Erbse](tips/erbse-key.html)
 - A page where you can copy and paste some [hard-to-type characers](tips/pasteboard.html)
-
-
+- Summer seminar [FAQs](faqs.html)

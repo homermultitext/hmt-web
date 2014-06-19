@@ -5,6 +5,7 @@ projects.md=Projects
 totalediting.md=An overview of the "total editing" process
 VH2014.md="The Venetian Homer in 2014"
 teams.md=Team assignments for collaborative projects
+faqs.md=Frequently asked questions
 resources.md=Some links and resources
 travel.md=Travel to CHS
 participants.md=Participants
