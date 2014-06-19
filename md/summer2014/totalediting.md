@@ -8,4 +8,4 @@ Editing proceeds by physical unit (for a codex, a single page) in this sequence:
 4. [XML editing](editing/xmlediting.html) of *Iliad* lines
 5. Visual inventory of all scholia.  (Simultaneously check for and record any non-textual features appearing on your page.)
 6. [Paleographic sample](editing/palinv.html) of scholia:  first 20 graphemes inventoried
-7. Complete [XML editing](editing/xmlediting) of scholia
+7. Complete [XML editing](editing/xmlediting.html) of scholia
