@@ -1,0 +1,4 @@
+palinv.md=Recording a paleographic sample
+visualInventory.md=How to create a visual inventory of edited texts
+hardCopyEditing.md=Editing a hard copy of the Iliad
+xmlEditing.md=XML editing
