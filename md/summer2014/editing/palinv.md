@@ -30,4 +30,4 @@ Within your editing repository, you should find a shell script called `palview.s
 
        sh palview.sh
 
-This will create in the hmt-mom build directory a web page called `paleographyViewer.html` that you can open in a web browser in your host operating system.
+This will create in the hmt-mom build directory a directory called `paleography` with web page called `viewer.html` that you can open in a web browser in your host operating system.
