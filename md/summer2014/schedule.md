@@ -13,7 +13,7 @@ In the table below, links are to reading or other assignments you should complet
 |------|-------|----------------------|
 |Th., June 19, 6:00 pm |   [Informal reception, **CHS Common Room**](opener.html)   |  Familiarize yourself with the [seminar web site](http://www.homermultitext.org/summer2014/) |
 | Fri., June 20, 9:00 am |  [Orientation:  the Homer Multitext virtual machine][vm] | Teams begin paleographic annotation of *Iliad* text.  Optionally, learn [more about using your virtual machine](further/posix.html). |  
-|  Fri., June 20, 2:00 pm | Orientation:  CHS library and facilities, **CHS Common Room** | Teams begin hard-copy editing of *Iliad* text  
+|  Fri., June 20, 2:00 pm | Orientation:  CHS library and facilities, **CHS Common Room** | Teams begin hard-copy editing of *Iliad* text.  Read [Allen's summary of his study of how the Venetus A was composed](allen-recap.html)  |
 | Sat., June 21, 9:00 am | [The HMT project and the CITE architecture][cite]| Teams begin work for "The Venetian Homer in 2014"  |  
 | Sat., June 21, 2:00 pm | [Parry and Lord; Homeric Questions as background of the Multitext project][parrylord]| Complete paleographic annotation and hard-copy editing of *Iliad* text|  
 
@@ -24,6 +24,7 @@ In the table below, links are to reading or other assignments you should complet
 |------|-------|----------------------|  
 | Mon., June 23, 9:00 am | [Texts and markup][markup] | Teams begin XML editing of *Iliad* text |  
 | Mon., June 23, 2:00 pm | [*Iliad* 12 as oral, traditional poetry][il12] | Teams validate text/artifact/image relations for *Iliad* text |  
+| Mon., June 23, 4:00 pm | In CHS main building conference room:   optional meeting for those with background or interest in statistical methods | |  
 | Tues., June 24, 9:00 am | [Evolution of the Homeric poems and the historical documents that transmit them][homericgreek] | Teams index scholia to image and page |  
 | Tues., June 24, 2:00 pm | [Introduction to reading scholia][scholia1] (including skype conference with HMT teams at Holy Cross) | Teams begin editing scholia|  
 | Wed., June 25, 9:00 am | Data models for scholarship using the CITE architecture | |  

@@ -4,6 +4,7 @@ schedule.md=Schedule
 projects.md=Projects
 totalediting.md=An overview of the "total editing" process
 VH2014.md="The Venetian Homer in 2014"
+allen-recap.md=Allen's summary of "The Venetian Homer"
 teams.md=Team assignments for collaborative projects
 faqs.md=Frequently asked questions
 resources.md=Some links and resources
