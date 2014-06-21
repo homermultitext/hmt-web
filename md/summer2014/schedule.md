@@ -26,7 +26,7 @@ In the table below, links are to reading or other assignments you should complet
 | Mon., June 23, 2:00 pm | [*Iliad* 12 as oral, traditional poetry][il12] | Teams validate text/artifact/image relations for *Iliad* text |  
 | Mon., June 23, 4:00 pm | In CHS main building conference room:   optional meeting for those with background or interest in statistical methods | |  
 | Tues., June 24, 9:00 am | [Evolution of the Homeric poems and the historical documents that transmit them][homericgreek] | Teams index scholia to image and page |  
-| Tues., June 24, 2:00 pm | [Introduction to reading scholia][scholia1] (including skype conference with HMT teams at Holy Cross) | Teams begin editing scholia|  
+| **NB** Tues., June 24, **2:15 pm** | [Introduction to reading scholia][scholia1] (including skype conference with HMT teams at Holy Cross) | Teams begin editing scholia|  
 | Wed., June 25, 9:00 am | Data models for scholarship using the CITE architecture | |  
 | Wed., June 25, 2:00 pm | [Analyzing the visual organization (*mise en page*) of Venetus A][built] | |  
 | Thurs., June 26, 9:00 am | Scholia reading party (including skype conference with Holy Cross teams) | |  
