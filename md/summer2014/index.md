@@ -13,6 +13,8 @@ giving undergraduate and faculty teams hands-on experience contributing to the p
 
 See [team assignments](teams.html) for collaborative projects
 
+See [sakai user  names](sakai.html) for access to [CHS Sakai portal](http://sakai.chs.harvard.edu/portal).
+
 ## Important background information for participants ##
 
 - [Preparation and prerequisites](prep.html) prior to coming to Washington.
