@@ -16,6 +16,7 @@ giving undergraduate and faculty teams hands-on experience contributing to the p
 ## For participants ##
 
 - documentation:  [the HMT virtual machine](vm/index.html)
+- documentation:  [using HMT MOM](mom/index.html)
 - [team assignments](teams.html) for collaborative projects
 - [sakai user  names](sakai.html) for access to [CHS Sakai portal](http://sakai.chs.harvard.edu/portal).
 
