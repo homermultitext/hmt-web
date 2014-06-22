@@ -1,10 +1,10 @@
 # Summary of automated tasks in the HMT VM #
 
-Your editorial repository should include shell scripts that automate the following tasks.
+Your editorial repository includes shell scripts that automate several tasks in the HMT VM.
 
 ## Paleographic inventory ##
 
-To create a web page where you can visualize the paleographic inventory you created in ``:
+To create a web page where you can visualize the paleographic inventory you created in `collections/paleography.csv`:
 
     sh palview.sh
 
@@ -13,7 +13,7 @@ The web page is in `hmt-mom/build/paleography/viewer.html`
 
 ## XML editing ##
 
-Fuller explanation TBA!
+(Fuller explanation of automated verification system TBA)
 
     sh verify.sh FOLIO-PAGE-URN
 
@@ -21,7 +21,7 @@ Fuller explanation TBA!
 
 ## Writing in citedown ##
 
-Your repository includes a directory named `writing` and a directory named `converted`.  Any files you create in the `writing` folder with names ending in `.md` are assumed to be markdown files with URNs for scholarly citation.    You can convert those files to generic markdown with all references to URNs turned into URLs with the command
+Your editorial repository includes a directory named `writing` and a directory named `converted`.  Any files you create in the `writing` folder with names ending in `.md` are assumed to be markdown files with URNs for scholarly citation.    You can convert those files to generic markdown with all references to URNs turned into URLs with the command
 
     bash convertcd.sh
 
