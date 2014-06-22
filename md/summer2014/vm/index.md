@@ -6,3 +6,4 @@
 - Working with the HMT VM:
     - [shared folder and regular work flow](workflow.html)
     - [summary of scripts automating HMT editors' tasks](scripts.html)
+- [Updating the HMT VM](update.html)
