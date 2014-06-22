@@ -13,10 +13,13 @@ The web page is in `hmt-mom/build/paleography/viewer.html`
 
 ## XML editing ##
 
-(Fuller explanation of automated verification system TBA)
+You can run the full HMT-MOM verification suite with this command:
 
     sh verify.sh FOLIO-PAGE-URN
 
+where `FOLIO-PAGE-URN` is the full URN for a page you have edited and want to validate.
+
+For full details on working with HMT-MOM, see [this page](../mom/index.html).
 
 
 ## Writing in citedown ##
