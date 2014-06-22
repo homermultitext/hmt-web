@@ -2,7 +2,7 @@
 
 
 
-- [Background](background.html)
+- [Background](bg.html)
 - [Running MOM](running.html)
 - [Overview of output](output.html)
 - Fixing errors
