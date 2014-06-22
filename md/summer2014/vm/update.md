@@ -26,6 +26,6 @@ If your host operating  system is windows, make sure that `refresh-hmt.sh`  is f
 **5**.  Change to the shared directory, and convert Windows carriage returns to Unix newlines:
 
     cd /vagrant
-    unix2dos refresh-hmt.sh
+    dos2unix refresh-hmt.sh
 
 

@@ -15,3 +15,12 @@ The HMT VM includes all the shared programs and data you need to edit material f
 
     git clone YOUR-REPOSITORY-NAME
  
+
+## Windows only ##
+
+If your host operating  system is windows, make sure that shell scripts are formatted for your Linux VM as follows: 
+
+**4**. Convert Windows carriage returns to Unix newlines:
+
+    dos2unix *.sh
+
