@@ -1,7 +1,8 @@
 # Homer Multitext project 2014 Summer Seminar at the Center for Hellenic Studies #
 
-From June 19 (arrival) - July 3 (departure), the Homer Multitext project will again conduct a seminar
+From June 19 (arrival) - July 3 (departure), the Homer Multitext project is again conducting a seminar
 giving undergraduate and faculty teams hands-on experience contributing to the project.
+
 
 - See an [overview of this year's seminar](overview.html).
 - [Schedule of events](schedule.html)
@@ -11,9 +12,12 @@ giving undergraduate and faculty teams hands-on experience contributing to the p
 - ["total edition" of *Iliad* 12](totalediting.html) in the Venetus A manuscript
 - "[The Venetian Homer in 2014](VH2014.html)": update of a nineteenth century study by Thomas W. Allen
 
-See [team assignments](teams.html) for collaborative projects
 
-See [sakai user  names](sakai.html) for access to [CHS Sakai portal](http://sakai.chs.harvard.edu/portal).
+## For participants ##
+
+- documentation:  [the HMT virtual machine](vm/index.html)
+- [team assignments](teams.html) for collaborative projects
+- [sakai user  names](sakai.html) for access to [CHS Sakai portal](http://sakai.chs.harvard.edu/portal).
 
 ## Important background information for participants ##
 
