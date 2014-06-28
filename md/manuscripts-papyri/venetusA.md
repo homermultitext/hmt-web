@@ -10,6 +10,6 @@ The manuscript Marcianus Graecus Z. 454 [= 822], known to Homeric scholars as th
 ## Related publications and scholarship ##
 - [Articles on the Venetus A from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Venetus%20A)
 
-[1]: http://pelike.hpcc.uh.edu/hmtdigital/mss
+[1]: http://pelike.hpcc.uh.edu/hmt-digital/mss
 
 [2]: http://www.homermultitext.org/hmt-image-archive/
