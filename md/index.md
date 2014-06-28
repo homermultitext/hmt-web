@@ -9,31 +9,5 @@ The Homer Multitext is a long-term project emphasizing collaborative research (w
 
 
 
-## News ##
-
-- HMT project blog: <http://homermultitext.blogspot.com/>
-- Information about [summer seminar 2014](summer2014)
-
- 
-
-## Manuscripts and Papyri ##
-
-- [Venetus A](venetusA.html)
-- [Venetus B](venetusB.html)
-- [Marciana 458](marciana458.html)
-- [Escorial Y I.1](upsilon-1-1.html)
-- [Escorial Ω I.12](omega-1-12.html)
-- [Genevensis 44](genevensis44.html)
-- [Papyri](papyri.html)
-
-
-## Links ##
-
-- HMT Digital:  [manuscript browsing applications](hmtdigital.html)
-- The HMT [digital archive](hmtarchive.html), includes links to downloadable image data
-- [Documentation](hmt-docs), includes guides for contributors, and technical documentation of the project
-- [Collaborations](collaboration.html)
-- [Related publications](publications.html)
-
 
 [1]: http://homermultitext.github.io/

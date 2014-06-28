@@ -82,7 +82,6 @@
 - Neel Smith, College of the Holy Cross
 - Paolo Venerando, Dante Alighieri Society and Wake Forest University in Venice
 - Dr. Marino Zorzi, Director of the Marciana Library
-
-- * We owe thanks to Bernard Frischer for an introduction and recommendation to the director of the Biblioteca Marciana.
+    - We owe thanks to Bernard Frischer for an introduction and recommendation to the director of the Biblioteca Marciana.
 
 C. Dué, M. Ebbott, C. Blackwell, N. Smith
