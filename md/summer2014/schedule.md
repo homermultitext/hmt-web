@@ -26,12 +26,12 @@ In the table below, links are to reading or other assignments you should complet
 | Mon., June 23, 2:00 pm | [*Iliad* 12 as oral, traditional poetry][il12] | Teams validate text/artifact/image relations for *Iliad* text |  
 | Mon., June 23, 4:00 pm | In CHS main building conference room:   optional meeting for those with background or interest in statistical methods | |  
 | Tues., June 24, 9:00 am | [Evolution of the Homeric poems and the historical documents that transmit them][homericgreek] | Teams index scholia to image and page |  
-| **NB** Tues., June 24, **2:15 pm** | [Introduction to reading scholia][scholia1] (including skype conference with HMT teams at Holy Cross) | Teams begin editing scholia|  
-| Wed., June 25, 9:00 am | Data models for scholarship using the CITE architecture | |  
-| Wed., June 25, 2:00 pm | [Analyzing the visual organization (*mise en page*) of Venetus A][built] | |  
-| Thurs., June 26, 9:00 am | Scholia reading party (including skype conference with Holy Cross teams) | |  
-| Thurs., June 26, 2:00 pm | Some statistical questions about the Venetus A| |  
-| Fri., June 27, 9:00 am | Working with writing in citedown format | |  
+| **NB** Tues., June 24, **2:30 pm** | [Introduction to reading scholia][scholia1] (including skype conference with HMT teams at Holy Cross) | Teams complete editing *Iliad*, indexing scholia, testing with `dse.sh` |  
+| Wed., June 25, 9:00 am | Data models for scholarship using the CITE architecture | All teams begin editing scholia |  
+| Wed., June 25, 2:00 pm | [Analyzing the visual organization (*mise en page*) of Venetus A][built] | Teams identify one or more scholia for Thursday morning session |  
+| Thurs., June 26, 9:00 am | [Scholia reading party][scholiaparty] (including skype conference with Holy Cross teams) | |  
+| Thurs., June 26, 2:00 pm | Working with writing in citedown format | |  
+| Fri., June 27, 9:00 am |  [Added lines, omitted lines, quoted lines: some examples from *Iliad* 12](reading/added.html) | |  
 | Fri., June 27, 2:00 pm | Using regular expressions to create a citable translation of Proclus, *Chrestomathy* | |  
 | Fri., June 27, 6:00 pm | Catered dinner, **CHS dining room**| |
 
@@ -39,10 +39,10 @@ In the table below, links are to reading or other assignments you should complet
 
 | Date | Topic | Follow-up assignment |
 |------|-------|----------------------|  
-| Mon., June 30, 9:00 am - 12:00 pm | Individual groups rehearse presentations| Revise slides for presentation |  
-| Mon., June 30, 2:00 pm | *to be determined* based on interest and progress | |  
-| Tues., July 1, 10:00 am | Formal presentations (seminar session to be streamed) | |  
-| Tues., July 1, 2:00 pm | The Venetian Homer in 2014 (session possibly streamed as well)| |  
+| Mon., June 30, 9:00 am - 12:00 pm | Individual groups rehearse presentations| Revise slides for Tues. presentation  |  
+| Mon., June 30, 2:00 pm |  Some statistical questions about the Venetus A | Complete draft of "Venetian Homer"? |  
+| Tues., July 1, 10:00 am | Formal presentations (seminar session to be streamed?) | |  
+| Tues., July 1, 2:00 pm | The Venetian Homer in 2014 (session possibly streamed as well?)| [Group conferences by institution](conferences.html)|  
 | Wed.,  July 2, 9:00 am | Technological infrastructure of the HMT project beyond the CHS seminar | |  
 | Wed.,  July 2, 2:00 pm | Retro-pro-spective | |  
 | Wed.,  July 2, 6:00 pm | Closing reception | |  
@@ -76,3 +76,6 @@ In the table below, links are to reading or other assignments you should complet
 
 
 [cite]: reading/citation.html
+
+
+[scholiaparty]: reading/scholiaparty.html

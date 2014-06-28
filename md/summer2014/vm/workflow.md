@@ -24,6 +24,6 @@ The folder where you cloned or downloaded the HMT VM is shared between your host
 
 **5**.  Make sure you have your team's most recent material.
 
-    git clone
+    git pull
 
 **6**.  Work away!  See a summary of [automated tasks you can run in the HMT VM](scripts.html).

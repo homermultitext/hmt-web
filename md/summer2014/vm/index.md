@@ -6,4 +6,8 @@
 - Working with the HMT VM:
     - [shared folder and regular work flow](workflow.html)
     - [summary of scripts automating HMT editors' tasks](scripts.html)
+- Other things you can do in your VM
+    -  [slide presentations from citedown](slides.html)
+    -  [web pages from citedown](web.html)
+    -  [create pdfs from citedown](making-pdfs.html)
 - [Updating the HMT VM](update.html)

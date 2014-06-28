@@ -23,7 +23,7 @@ Your general work flow should follow this pattern:
 
 ## Possible complications ##
 
-If you cannot find an identifier for a personal name or place name in the [HMT project authority lists](https://github.com/homermultitext/hmt-authlists/tree/master/data), then file an issue in the appropriate issue tracker.
+If you cannot find an identifier for a personal name or place name in the [HMT project authority lists](https://github.com/homermultitext/hmt-authlists/tree/master/data), then file an issue in the appropriate issue tracker, [following the instructions in this guide](submittingAuthListIssues.html).
 
 
 

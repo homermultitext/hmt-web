@@ -10,6 +10,13 @@ To create a web page where you can visualize the paleographic inventory you crea
 
 The web page is in `hmt-mom/build/paleography/viewer.html`
 
+## Verifying relations of text, image and artifact ##
+
+You can test the consistency of your indexing by running
+
+    sh dse.sh FOLIO-PAGE-URN
+
+This will create a visual inventory of your index in `hmt-mom/build/visualinventory/inventory.xml`.  (**NB**: Chrome's default security settings will not load the javascript file that is used to overlay your indices on an image;  Safari or Firefox will open the file without problems using default settings.)
 
 ## XML editing ##
 
@@ -21,11 +28,3 @@ where `FOLIO-PAGE-URN` is the full URN for a page you have edited and want to va
 
 For full details on working with HMT-MOM, see [this page](../mom/index.html).
 
-
-## Writing in citedown ##
-
-Your editorial repository includes a directory named `writing` and a directory named `converted`.  Any files you create in the `writing` folder with names ending in `.md` are assumed to be markdown files with URNs for scholarly citation.    You can convert those files to generic markdown with all references to URNs turned into URLs with the command
-
-    bash convertcd.sh
-
-You will then find two copies of each file in the `converted` folder:  a generic markdown file you can use with any software that supports markdown, and an html file you can view in a web browser.
