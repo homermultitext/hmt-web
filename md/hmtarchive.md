@@ -12,7 +12,7 @@ In addition to our editorial work, the HMT project hosts an archive of [download
 
 
 
-## Summary ##
+## Important Links ##
 
 - HMT project github repository: <http://homermultitext.github.io/>
 - HMT project archive of images: <http://www.homermultitext.org/hmt-image-archive/>
