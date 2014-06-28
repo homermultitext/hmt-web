@@ -12,4 +12,4 @@ The manuscript Marcianus Graecus Z. 454 [= 822], known to Homeric scholars as th
 
 [1]: http://pelike.hpcc.uh.edu/hmt-digital/mss
 
-[2]: http://www.homermultitext.org/hmt-image-archive/
+[2]: http://www.homermultitext.org/image-archive.html

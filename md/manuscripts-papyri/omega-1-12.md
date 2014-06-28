@@ -12,4 +12,4 @@ Escorial Ω.I.12 (=Allen's E4, West F) is an 11th century parchment codex, thou
 
 [1]: http://pelike.hpcc.uh.edu/hmt-digital/mss
 
-[2]: http://www.homermultitext.org/hmt-image-archive/
+[2]: http://www.homermultitext.org/image-archive.html

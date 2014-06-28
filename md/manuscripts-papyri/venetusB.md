@@ -13,4 +13,4 @@ The manuscript consists of 338 folios (40.5 x 31.5 cm). The 11th-century text an
 
 [1]: http://pelike.hpcc.uh.edu/hmt-digital/mss
 
-[2]: http://www.homermultitext.org/hmt-image-archive/
+[2]: http://www.homermultitext.org/image-archive.html
