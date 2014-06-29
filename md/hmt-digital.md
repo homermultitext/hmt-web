@@ -11,4 +11,4 @@ In addition, data on the test system are drawn from nightly builds from our cent
 
 ## Most stable ##
 
-We are working on a published release of the `hmt-digital` application to appear at <http://amphoreus.hpcc.uh.edu/hmt-digital/>.  Data will always be drawn from citable published  versions.   We are currently testing applications with the published `2014.1` data release on <http://pelike.hpcc.uh.edu/hmt-digital/>.
+We are working on a published release of the `hmt-digital` application to appear at <http://amphoreus.hpcc.uh.edu/hmt-digital/>.  Data will always be drawn from citable published  versions.   We are currently testing applications with the published `2014.1` data release on <http://pelike.hpcc.uh.edu/hmt/hmt-digital/>.
