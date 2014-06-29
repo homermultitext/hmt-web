@@ -7,5 +7,5 @@ hmt-archive.md= The HMT project digital archive
 maven.md=Maven identifiers for published issues of the HMT archive
 links.md=Links
 hmt-digital.md=Online applications and data services
-image-archive.md=Archive of downloadable images
+hmt-image-archive.md=Archive of downloadable images
 publications.md=Publications

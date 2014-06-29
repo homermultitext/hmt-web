@@ -15,13 +15,13 @@ In addition to our editorial work, the HMT project hosts an archive of [download
 ## Important Links ##
 
 - HMT project github repository: <http://homermultitext.github.io/>
-- HMT project archive of images: <http://www.homermultitext.org/image-archive.html>
+- HMT project archive of images: <http://www.homermultitext.org/hmt-image-archive.html>
 
 
 
 [1]: http://homermultitext.github.io/
 
-[2]: image-archive.html
+[2]: hmt-image-archive.html
 
 
 [3]: http://git-scm.com/
