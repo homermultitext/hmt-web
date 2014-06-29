@@ -1,5 +1,8 @@
 
-# Collaborating Departments and Institutions# 
+
+## Collaborating Departments and Institutions ##
+
+
 
 - The Center for Hellenic Studies, Harvard University
 - The Center for Visualization and Virtual Environments, University of Kentucky
@@ -14,7 +17,9 @@
 - The Perseus Project
 - The [Holy Cross Manuscripts, Inscriptions and Documents Club](http://shot.holycross.edu/hcmid/)
 
-# Funding Agencies and Foundations# 
+## Funding Agencies and Foundations ##
+
+
 
 - University of Houston
 - Furman University
@@ -23,13 +28,17 @@
 - The National Endowment for the Humanities
 - The Gladys Krieble Delmas Foundation
 
-# Infrastructure# 
+## Infrastructure ##
+
+
 
 - Alan Pfeiffer-Traum, University of Houston, High-Performance Computing Center
 - Keith Crabb, University of Houston, High-Performance Computing Center
 - Fred Miller, Director, Information Technology Services, Furman University
 
-# Digitization of the Escorialensis Manuscripts of the _Iliad_ (Escorial Υ.1.1 and Escorial Ω.1.12) in the Escorial Library in Spain# 
+## Digitization of the Escorialensis Manuscripts of the _Iliad_ (Escorial Υ.1.1 and Escorial Ω.1.12) in the Escorial Library in Spain ##
+
+
 
 
 - José Luis del Valle Merino, Director, Real Biblioteca Monasterio de El Escorial
@@ -45,14 +54,23 @@
 - Neel Smith, Project Architect
 - Daniel Staley, Software Engineer
 
-# Diplomatic Editions of Homeric Papyri# 
+## Diplomatic Editions of Homeric Papyri ##
+
+
 
 - Creation of XML Editions: Christopher Blackwell, Andrew Cannon, Andrew Corley, Bart Huelsenbeck, Marcello Lippiello, Alexander Loney, Joseph Miller, Susannah Morris.
 - Academic Consultant: Graeme Bird
 
-# Diplomatic Editions of Medieval Manuscripts# 
+## Diplomatic Editions of Medieval Manuscripts ##
 
-# Digitization of _Venetus_ A, _Venetus_ B, and Marciana 841 Manuscripts in the Marciana Library in Venice, Italy# 
+See the current list of active contributors from HMT project [github organization for collaborative editing][gh].
+
+[gh]: http://hmteditors.github.io/
+
+
+## Digitization of _Venetus_ A, _Venetus_ B, and Marciana 841 Manuscripts in the Marciana Library in Venice, Italy ##
+
+
 
 - Steve Bailey, Documentary Video
 - Ryan Baumann, Software Engineer

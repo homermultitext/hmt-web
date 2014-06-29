@@ -1,23 +1,5 @@
 # Guides for contributors #
 
-
-## Basic guides ##
-
-
-- [Using git][1] to work on HMT editions
-- House XML style guide for editors
-- [Using a virtual machine][3] to work on HMT projects
-
-## Advanced topics ##
-
-
-- [Using github's fork and pull request][2] to contribute to the HMT project
-- [Editing the HMT web site][4]
-
-[1]: basic-git.html
-
-[2]: advanced-git.html
-
-[3]: vm.html
-
-[4]: hmtweb.html
+In 2014, we are standardizing on a set of templates and tools that all contributors run
+in a Homer Multiext project virtual machine.  We are updating our guides to reflect this:  
+ draft documentation is available from the [web pages for the 2014 summer seminar](../summer2014).
