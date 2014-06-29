@@ -102,4 +102,9 @@ See the current list of active contributors from HMT project [github organizatio
 - Dr. Marino Zorzi, Director of the Marciana Library
     - We owe thanks to Bernard Frischer for an introduction and recommendation to the director of the Biblioteca Marciana.
 
+## Development of the CITE architecture ##
+
+Please see this [separate page for acknowlegments](hmt-docs/acknowledgments.html).
+
+
 C. Dué, M. Ebbott, C. Blackwell, N. Smith
