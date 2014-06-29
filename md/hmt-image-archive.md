@@ -19,7 +19,7 @@ All images in this directory are derived from originals that are (c) 2007, Bibli
 
 All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
 
-**[Marciana 458](http://www.homermultitext.org/hmt-image-archive/U4/) (= 841)**
+**[Marciana 841](http://www.homermultitext.org/hmt-image-archive/U4/) (= Marciana Graecus Z. 458)**
 
 All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
 
