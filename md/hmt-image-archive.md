@@ -11,11 +11,11 @@ Stable URLs for the Homer Multitext project's archive of binary image data inclu
 
 ## Data sets
 
-**Venetus A (Marciana 454 = 822)**
+**Venetus A (Marciana 822 = Graecus Z. 454)**
 
 All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
 
-**[Venetus B](http://www.homermultitext.org/hmt-image-archive/VenetusB/) (Marciana 453 = 821)**
+**[Venetus B](http://www.homermultitext.org/hmt-image-archive/VenetusB/) (Marciana 821 = Graecus Z. 453)**
 
 All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
 

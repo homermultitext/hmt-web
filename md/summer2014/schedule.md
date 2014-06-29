@@ -39,11 +39,10 @@ In the table below, links are to reading or other assignments you should complet
 
 | Date | Topic | Follow-up assignment |
 |------|-------|----------------------|  
-| Mon., June 30, 9:00 am - 12:00 pm | Individual groups rehearse presentations| Revise slides for Tues. presentation  |  
-| Mon., June 30, 2:00 pm |  Some statistical questions about the Venetus A | Complete draft of "Venetian Homer"? |  
-| Tues., July 1, 10:00 am | Formal presentations (seminar session to be streamed?) | |  
-| Tues., July 1, 2:00 pm | The Venetian Homer in 2014 (session possibly streamed as well?)| [Group conferences by institution](conferences.html)|  
-| Wed.,  July 2, 9:00 am | Technological infrastructure of the HMT project beyond the CHS seminar | |  
+| Mon., June 30, 9:00 am - 12:00 pm (see [schedule of times](rehearsal.html)) | Individual groups rehearse presentations| Revise slides for Tues. presentation  |  
+| Tues., July 1, 10:00 am | Formal presentations (seminar session to be streamed?) | Work on "Venetian Homer in 2014"|  
+| Tues., July 1, 2:00 pm | The Venetian Homer in 2014 | [Group conferences by institution](conferences.html)|  
+| Wed.,  July 2, 9:00 am | Some research questions about the Venetus A beyond this week | |  
 | Wed.,  July 2, 2:00 pm | Retro-pro-spective | |  
 | Wed.,  July 2, 6:00 pm | Closing reception | |  
 

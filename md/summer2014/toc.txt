@@ -11,6 +11,7 @@ faqs.md=Frequently asked questions
 resources.md=Some links and resources
 travel.md=Travel to CHS
 participants.md=Participants
+rehearsal.md="Dress rehearsal" for oral presentations
 conferences.md=Group conferences by institution
 prep.md=Preparation prior to the seminar
 opener.md=Opening reception
