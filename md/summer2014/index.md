@@ -1,5 +1,16 @@
 # Homer Multitext project 2014 Summer Seminar at the Center for Hellenic Studies #
 
+
+## Important announcements for participants ##
+
+**Change of URL**:  HMT test site now located at
+<http://beta.hpcc.uh.edu/tomcat/hmt-digital/> (note hyphen not present in URL of earlier test site)
+
+
+
+## Overview ##
+
+
 From June 19 (arrival) - July 3 (departure), the Homer Multitext project is again conducting a seminar
 giving undergraduate and faculty teams hands-on experience contributing to the project.
 

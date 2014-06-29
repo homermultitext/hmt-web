@@ -15,7 +15,7 @@ In each team's office at CHS:
 
 Links:
 
-- Test site for [HMT digital material](http://beta.hpcc.uh.edu/tomcat/hmtdigital/)
+- Test site for [HMT digital material](http://beta.hpcc.uh.edu/tomcat/hmt-digital/)
 - Initial notes on [paleography of Venetus A](palguide.pdf)
 - HMT project guide for editors:  [2013 edition](http://www.homermultitext.org/hmt-docs/HMTstyle-preview.pdf)
 - Searchable [authority lists](https://github.com/homermultitext/hmt-authlists/tree/master/data) for personal name and place name identifiers
