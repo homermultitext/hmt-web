@@ -1,6 +1,6 @@
 # Manuscripts and Papyri of the Homer Multitext project #
 
-Select a manuscript to read more:
+Manuscripts we are currently editing:
 
 - [Venetus A](venetusA.html)
 - [Venetus B](venetusB.html)
@@ -8,4 +8,5 @@ Select a manuscript to read more:
 - [Escorial Y.1.1](upsilon-1-1.html)
 - [Escorial Ω.1.12](omega-1-12.html)
 - [Genavensis 44](genavensis44.html)
-- [Homeric Papyri](papyri.html)
+
+In addition, we are currently editing some well illustrated [papyri](papyri.html).
