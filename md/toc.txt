@@ -5,6 +5,7 @@ collaboration.md=Collaboration
 news.md=News about the project
 hmt-archive.md= The HMT project digital archive
 maven.md=Maven identifiers for published issues of the HMT archive
+for-editors.md=For editors and contributors
 links.md=Links
 hmt-digital.md=Online applications and data services
 hmt-image-archive.md=Archive of downloadable images
