@@ -5,6 +5,7 @@
 
 
 1. make an ordered collection of pages
+2. if necessary, make composite images of bifolio spread
 2. index primary or default image to each page
 3. define region of interest on default image for physical page
 4. record URN of first and last line of the *Iliad* for every page that has *Iliad* text
