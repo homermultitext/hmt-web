@@ -1,8 +1,3 @@
-
-
 index.md=Guides for contributors to the HMT project
-
-
-
-
-
+output.md=What we create in editing for the HMT project
+environments.md=Environments for editing
