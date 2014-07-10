@@ -16,6 +16,8 @@
 
 ## On Digital Humanities ##
 
+- [Berti, Monica et al. “A New Implementation for Canonical Text Services.” _Proceedings of the 8th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH)_. Association for Computational Linguistics, 2014.](https://www.academia.edu/7553453/A_New_Implementation_for_Canonical_Text_Services)
+
 - [Blackwell, C., and T. Martin. “Technology, Collaboration, and Undergraduate Research.” _Digital Humanities Quarterly_ 3.1 (Winter, 2009).](http://www.digitalhumanities.org/dhq/vol/3/1/000024/000024.html)
 
 - [Crane, G., and Terras, M. edd. _Changing the Center of Gravity: Transforming Classical Studies through Cyberinfrastructure_ (Digital Humanities Quarterly: Winter, 2009)](http://digitalhumanities.org/dhq/vol/3/1/index.html)
@@ -34,14 +36,13 @@
 
 - [Dué, C. and M. Ebbott. “Digital Criticism: Editorial Standards for the Homer Multitext.” _Digital Humanities Quarterly_ 3.1 (Winter, 2009).](http://www.digitalhumanities.org/dhq/vol/003/1/000029/000029.html)
 
-- [Nagy, G. “Homer Multitext project.” In _Online Humanities Scholarship: The Shape of Things to Come_, ed. J. McGann. Rice University Press, 2010.](http://rup.rice.edu/cnx_content/shape/m34314.html)
+- Nagy, G. “Homer Multitext project.” In _Online Humanities Scholarship: The Shape of Things to Come_, ed. J. McGann. Rice University Press, 2010.
 
 - Smith, N. “Digital infrastructure and the Homer Multitext project.” In _Digital Research in the Study of Classical Antiquity,_ edited by G. Bodard and S. Mahony. Ashgate, 2010.
 
 - [Smith, N. “Citation in Classical Studies.” _Digital Humanities Quarterly_ 3.1 (Winter, 2009).](http://www.digitalhumanities.org/dhq/vol/3/1/000028/000028.html)
 
 - [Smith, N., Weaver, G., “Applying Domain Knowledge from Structured Citation Formats to Text and Data Mining: Examples Using the CITE Architecture” _Dartmouth Computer Science Technical Report TR2009-649_ 2009.](http://katahdin.cs.dartmouth.edu/reports/TR2009-649.pdf)
-
 
 
 ## On Particular Documents ##
