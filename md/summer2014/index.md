@@ -3,9 +3,8 @@
 
 ## Important announcements for participants ##
 
-**Change of URL**:  HMT test site now located at
-<http://beta.hpcc.uh.edu/tomcat/hmt-digital/> (note hyphen not present in URL of earlier test site)
-
+The summer seminar for 2014 has now concluded, and we are beginning to transfer mateiral useful for contributors to the HMT project to a more permanent URL.  Please see  the links at
+<http://www.homermultitext.org/for-editors.html>.
 
 
 ## Overview ##
