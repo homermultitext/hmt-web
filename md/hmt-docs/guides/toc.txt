@@ -1,3 +1,7 @@
 index.md=Guides for contributors to the HMT project
+install.md=Installing the HMT editing system
+run.md=Running the HMT virtual machine
+clone-your-repo.md=Cloning your editorial repository
+workflow.md=Shared folder and regular work flow
 output.md=What we create in editing for the HMT project
 environments.md=Environments for editing
