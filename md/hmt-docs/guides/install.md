@@ -7,7 +7,7 @@ The Homer Multitext project uses a virtual
 ## Prerequisites for  total editing##
 
 - a validating XML editor, such as , oXygen XML Editor: <http://www.oxygenxml.com/download.html>
-- git
+- a free account on [github](https://github.com/), and a command-line git client on your personal computer
 - vagrant: <http://www.vagrantup.com/downloads.html>
 - virtualbox: <https://www.virtualbox.org/wiki/Downloads>
 
