@@ -1,6 +1,9 @@
 # Resources #
 
 
+## At CHS ##
+
+
 In the CHS library:
 
 - Comparetti facsimile
@@ -15,10 +18,15 @@ In each team's office at CHS:
 
 Links:
 
-- Test site for [HMT digital material](http://beta.hpcc.uh.edu/tomcat/hmt-digital/)
+
 - CHS [Sakai portal](http://sakai.chs.harvard.edu/portal)
 - [CHS Summer Seminar github organization](http://hmt-seminar-2014.github.io/)
 - [CHS Sakai site](http://sakai.chs.harvard.edu/portal)
+
+## On line resources ##
+
+The following links are migrating to the HMT project's main collection of material for editors and contributors at
+<http://www.homermultitext.org/for-editors.html>.
 
 Tips, good utilties:
 

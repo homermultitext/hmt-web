@@ -25,8 +25,7 @@ giving undergraduate and faculty teams hands-on experience contributing to the p
 
 ## For participants ##
 
-- documentation:  [the HMT virtual machine](vm/index.html)
-- documentation:  [using HMT MOM](mom/index.html)
+
 - [team assignments](teams.html) for collaborative projects
 - [sakai user  names](sakai.html) for access to [CHS Sakai portal](http://sakai.chs.harvard.edu/portal).
 
@@ -38,7 +37,12 @@ giving undergraduate and faculty teams hands-on experience contributing to the p
 
 
 
+## Documentation ##
 
+The following documentation from summer 2014, together with many of the links on the [resources](resources.html) page, are migrating to the HMT project's main collection of material for editors and contributors at
+<http://www.homermultitext.org/for-editors.html>.
 
+- documentation:  [the HMT virtual machine](vm/index.html)
+- documentation:  [using HMT MOM](mom/index.html)
 
 
