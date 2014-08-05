@@ -10,7 +10,7 @@ For the latest news on the Homer Multitext, see the [Homer Multitext blog](http:
 
 The Homer Multitext project seeks to present the textual transmission of the Iliad and Odyssey in a historical framework. Such a framework is needed to account for the full reality of a complex medium of oral performance that underwent many changes over a long period of time. These changes, as reflected in the many texts of Homer, need to be understood in their many different historical contexts. The Homer Multitext provides ways to view these contexts both synchronically and diachronically.
 
-Using technology that takes advantage of the best available practices and open source standards that have been developed for digital publications in a variety of fields, the Homer Multitext offers free access to a library of texts and images, a machine-interface to that library and its indices, and tools to allow readers to discover and engage with the Homeric tradition.
+Using technology that takes advantage of the best available practices and open source standards that have been developed for digital publications in a variety of fields, the Homer Multitext offers free access to a library of texts and images, a machine-interface to that library and its indices, and tools to allow readers to discover and engage with the Homeric tradition. Our data and services are hosted and supported by the Research Computing Center at the University of Houston. Additional support and funding has been provided by the Center for Hellenic Studies, the Gladys Krieble Delmas Foundation, the Mellon Foundation, the National Endowment for the Humanities, and the National Science Foundation.
 
 ## A Multitextual Approach to Homer
 
