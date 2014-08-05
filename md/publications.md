@@ -2,11 +2,11 @@
 
 ## On Homeric Poetry ##
 
-- [Dué, C. “Achilles’ Golden Amphora in Aeschines’ Against Timarchus and the Afterlife of Oral Tradition.” _Classical Philology_ 96 (2001): 33-47.](http://www.stoa.org/hopper/text.jsp?doc=Stoa:text:2003.01.0005)
-- [Dué, C. _Homeric Variations on a Lament by Briseis._ Roman & Littlefield, 2002.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=1720)
-- [Dué, C. and M. Ebbott. _Iliad 10 and the Poetics of Ambush: A Multitext Edition with Essays and Commentary._ Center for Hellenic Studies, 2010.](http://www.hup.harvard.edu/catalog.php?recid=29670)
-- [Nagy, G. _Homeric Questions._ University of Texas Press, 2006.](http://www.stoa.org/hopper/text.jsp?doc=Stoa:text:2003.01.0006)
-- [Nagy, G. _Poetry as Performance: Homer and Beyond._ Cambridge University  Press, 1996.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=2064)
+- [Dué, C. “Achilles’ Golden Amphora in Aeschines’ Against Timarchus and the Afterlife of Oral Tradition.” *Classical Philology_*96 (2001): 33-47.](http://www.stoa.org/hopper/text.jsp?doc=Stoa:text:2003.01.0005)
+- [Dué, C. *Homeric Variations on a Lament by Briseis*. Roman & Littlefield, 2002.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=1720)
+- [Dué, C. and M. Ebbott. _Iliad 10 and the Poetics of Ambush: A Multitext Edition with Essays and Commentary._ Center for Hellenic Studies, 2010.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4172)
+- [Nagy, G. *Homeric Questions*. University of Texas Press, 2006.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4028)
+- [Nagy, G. *Poetry as Performance: Homer and Beyond*. Cambridge University  Press, 1996.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=2064)
 
 
 
@@ -36,7 +36,7 @@
 
 ### Papyri ###
 
-- [Bird, G. _Multitextuality in the Homeric Iliad: The Witness of Ptolemaic Papyri._ Center for Hellenic Studies, 2010.](http://www.hup.harvard.edu/catalog.php?recid=29881)
+- [Bird, G. _Multitextuality in the Homeric Iliad: The Witness of Ptolemaic Papyri._ Center for Hellenic Studies, 2010.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4855)
 
 
 
