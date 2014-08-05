@@ -4,11 +4,15 @@ Escorial Y I.1 (=Allen's E3, West E) is an 11th century parchment codex consisti
 
 ## Links ##
 
-- [Manuscript browser][1]
-- [Downloadable Data][2]
+- Test version of [manuscript browser][3]
+- [Downloadable data][2]
 
 ## Related publications and scholarship ##
 - [Articles on the Escorial Y I.1 from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Escorial%20Υ.1.1)
+
+
+
+[3]: http://beta.hpcc.uh.edu/tomcat/hmt-digital/mss
 
 [1]: http://www.homermultitext.org/hmt-digital/mss
 

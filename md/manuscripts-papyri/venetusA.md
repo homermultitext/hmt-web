@@ -5,9 +5,9 @@ The manuscript Marcianus Graecus Z. 454 [= 822], known to Homeric scholars as th
 ## Links ##
 
 - [Manuscript browser][1]
+- Newer test version of [manuscript browser][3]
 - [Downloadable data][2]
 - [Imaging the Iliad: A Digital Renaissance](http://www.youtube.com/watch?v=ri6X1Dz4Ycg&feature=kp): a documentary about the process of photographing the Venetus A manuscript.
-
 
 
 
@@ -21,3 +21,5 @@ The manuscript Marcianus Graecus Z. 454 [= 822], known to Homeric scholars as th
 [1]: http://www.homermultitext.org/hmt-digital/mss
 
 [2]: http://www.homermultitext.org/hmt-image-archive.html
+
+[3]: http://beta.hpcc.uh.edu/tomcat/hmt-digital/mss

@@ -4,11 +4,15 @@ Marciana 841 is a 12th or 13th century CE manuscript of the *Iliad*. The origina
 
 ## Links ##
 
-- [Manuscript browser][1]
-- [Downloadable Data][2]
+- Test version of [manuscript browser][3]
+- [Downloadable data][2]
 
 ## Related publications and scholarship ##
 - [Articles on the Marciana 841 from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Marciana%20841)
+
+
+
+[3]: http://beta.hpcc.uh.edu/tomcat/hmt-digital/mss
 
 [1]: http://www.homermultitext.org/hmt-digital/mss
 
