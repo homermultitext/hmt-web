@@ -27,6 +27,6 @@ All images in this directory are derived from originals that are (c) 2007, Bibli
 
 The images in this directory were made possible by the kind cooperation and permission of the Real Monaste rio de San Lorenzo de El Escoria, José Luis del Valle Merino, O.S.A., Director. These derivative images are (c) 2010, The University of Kentucky, Center for Visualization and Virtual Environments. Licensed under the Creative Commons Non-Commerical, Attribution, Share-Alike, Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-**[Escorial Ω 1.12](http://www.homermultitext.org/hmt-image-archive/E3/) (513)**
+**[Escorial Ω 1.12](http://www.homermultitext.org/hmt-image-archive/E4/) (513)**
 
 The images in this directory were made possible by the kind cooperation and permission of the Real Monaste rio de San Lorenzo de El Escoria, José Luis del Valle Merino, O.S.A., Director. These derivative images are (c) 2010, The University of Kentucky, Center for Visualization and Virtual Environments. Licensed under the Creative Commons Non-Commerical, Attribution, Share-Alike, Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
