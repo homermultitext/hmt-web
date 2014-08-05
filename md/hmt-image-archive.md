@@ -9,9 +9,10 @@ Stable URLs for the Homer Multitext project's archive of binary image data inclu
 - <http://www.homermultitext.org/hmt-image-archive/>
 - <http://shot.holycross.edu/hmt-image-archive/>
 
-## Data sets
+## Data sets ##
 
-**Venetus A (Marciana 822 = Graecus Z. 454)**
+
+**[Venetus A](http://www.homermultitext.org/hmt-image-archive/VenetusB/) (Marciana 822 = Graecus Z. 454)**
 
 All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
 

@@ -11,4 +11,4 @@ In addition, data on the test system are drawn from nightly builds from our cent
 
 ## Most stable ##
 
-The most recent version of the `hmt-digital` application is always hosted at <http://amphoreus.hpcc.uh.edu/hmt-digital/>, using data from the most recent citable published version of the HMT archive.  
+The most recent version of the `hmt-digital` application is always hosted at <http://www.homermultitext.org/hmt-digital/>, using data from the most recent citable published version of the HMT archive.  

@@ -9,4 +9,4 @@ The “Geneva Iliad” was most likely produced in Constantinople in the 13th ce
 - [Articles on the Genavensis 44 from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Geneva%20Iliad)
 
 
-[4]: http://amphoreus.hpcc.uh.edu/tomcat/hmt-digital/browseimg?urn=urn:cite:ecod:gen44
+[4]: http://www.homermultitext.org/hmt-digital/browseimg?urn=urn:cite:ecod:gen44
