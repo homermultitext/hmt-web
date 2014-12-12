@@ -33,7 +33,7 @@
 ### The Venetus A ###
 
 - Dué, C., ed. _Recapturing a Homeric Legacy: Images and Insights from the Venetus A Manuscript of the Iliad._ Center for Hellenic Studies, 2009. [PDF](http://www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf) | [Catalogue](http://www.hup.harvard.edu/catalog.php?recid=29425)
-
+- [Dué, C. and M. Ebbott. _An introduction to the Homer Multitext edition of the Venetus A manuscript of the *Iliad*_. The Homer Multitext, first published 2014.](VenA-Introduction-2014.html)
 
 ### The Escorial Upsilon I.1 ###
 
