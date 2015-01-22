@@ -5,3 +5,4 @@
 - [Documentation](hmt-docs)
 - [Collaborations](collaboration.html)
 - [Related Publications](publications.html)
+- [Contributors](contributors.html)
