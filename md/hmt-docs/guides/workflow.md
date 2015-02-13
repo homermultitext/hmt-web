@@ -14,7 +14,7 @@ The folder where you cloned or downloaded the HMT VM is shared between your host
 
 **3**.  Make sure your have the most recent HMT material.
   
-    sh hmt-refresh.sh
+    sh refresh-hmt.sh
 
 
 **4**.  Change directory to your editorial repository.

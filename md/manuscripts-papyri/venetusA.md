@@ -16,6 +16,7 @@ The manuscript Marcianus Graecus Z. 454 [= 822], known to Homeric scholars as th
 
 - [*Iliad 10 and the Poetics of Ambush*](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4172) by Casey Dué and Mary Ebbott. This book includes both a textual commentary on the Venetus A text of Iliad 10 and a poetic commentary on its action and language.
 - Dué, Casey, ed. Recapturing a Homeric Legacy: Images and Insights from the Venetus A Manuscript of the Iliad. Center for Hellenic Studies, 2009. (Pdf available [here](http://www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf).)
+- [Dué, C. and M. Ebbott. _An introduction to the Homer Multitext edition of the Venetus A manuscript of the *Iliad*_. The Homer Multitext, first published 2014.](VenA-Introduction-2014.html)
 - [Articles on the Venetus A from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Venetus%20A)
 
 [1]: http://www.homermultitext.org/hmt-digital/mss
