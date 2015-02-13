@@ -37,12 +37,12 @@
 
 ### The Escorial Upsilon I.1 ###
 
-- Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF](Due&Ebbott_Homer-in-the-Escorial.pdf)
+- Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF](http://www.homermultitext.org/Pubs/Due-Ebbott_Homer-in-the-Escorial.pdf)
 
 ### The Escorial Omega I.12 ###
 
-- Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF](Due&Ebbott_Homer-in-the-Escorial.pdf)
-
+- Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF](http://www.homermultitext.org/Pubs/Due-Ebbott_Homer-in-the-Escorial.pdf)
+- 
 ### Papyri ###
 
 - [Bird, G. _Multitextuality in the Homeric Iliad: The Witness of Ptolemaic Papyri._ Center for Hellenic Studies, 2010.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4855)
