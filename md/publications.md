@@ -2,7 +2,7 @@
 
 ## On Homeric Poetry ##
 
-- [Dué, C. “Achilles’ Golden Amphora in Aeschines’ Against Timarchus and the Afterlife of Oral Tradition.” *Classical Philology_*96 (2001): 33-47.](http://www.stoa.org/hopper/text.jsp?doc=Stoa:text:2003.01.0005)
+- [Dué, C. "Achilles' Golden Amphora in Aeschines' Against Timarchus and the Afterlife of Oral Tradition."](http://www.stoa.org/hopper/text.jsp?doc=Stoa:text:2003.01.0005) *Classical Philology* 96 (2001): 33-47.
 - [Dué, C. *Homeric Variations on a Lament by Briseis*. Roman & Littlefield, 2002.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=1720)
 - [Dué, C. and M. Ebbott. _Iliad 10 and the Poetics of Ambush: A Multitext Edition with Essays and Commentary._ Center for Hellenic Studies, 2010.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4172)
 - [Nagy, G. *Homeric Questions*. University of Texas Press, 2006.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4028)
