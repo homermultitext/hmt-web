@@ -2,9 +2,11 @@
 
 ## Brandeis University ##
 
+- Alex Arad
 - Kristina Birthisel
 - Daniel Cline
 - Oscar Courchaine
+- Benjamin Davis
 - Taylor McKinnon
 - Ana-Sofia Meneses
 - Otis Munroe
@@ -16,7 +18,7 @@
 
 ## College of the Holy Cross ##
 
-- Jennifer Adams- Matthew Angiolillo- Thomas Arralde- Andrew Boudon- Chase Bradford- Melissa Browne- Kenneth Calemmo- Debbie Chu- Nikolas Churik- David Cieremans- Brian Clark-Neil Curran- Jennifer Curtin- James D'Amico-Alex Dobens- William Dolan- Scott Dubé- Hillary Duffy- C. Daniel Earley- James Fox- Eliza Gettel- Jeffrey Godowski- Francis Hartel- Connor Hayden- Mark Hogan
+- Jennifer Adams- Matthew Angiolillo- Thomas Arralde- Andrew Boudon- Chase Bradford- Melissa Browne- Kenneth Calemmo- Debbie Chu- Nikolas Churik- David Cieremans- Brian Clark- Neil Curran- Jennifer Curtin- James D'Amico- Alex Dobens- William Dolan- Scott Dubé- Hillary Duffy- C. Daniel Earley- James Fox- Eliza Gettel- Jeffrey Godowski- Francis Hartel- Connor Hayden- Mark Hogan
 - Maria Jaroszewicz- William Johnson- Michael Kinney- Alex Krasowki- Daniel Libatique- Stephanie Lindeborg- Brian Livingston- Melissa Luttmann- Evans Martinez- George Matthews- Rebecca Musgrave- Jessica Nord- Kathleen O'Connor- Nicholas Powers- Patrick Rapuano- Michael Roberts- Christine Roughan- Michael Russo- Christopher Ryan
 - Charles Schufrieder- Anne Salloom- Alexander Simrell- Mercedes Sisk- Adam Sykura- Deborah Sokolowski
 - Drew Virtue
@@ -32,6 +34,11 @@
 - Laurel Boman
 - Aime Goblirsch
 - James Skoog
+
+## Harvard University ##
+
+- Amy Koenig
+- Emily Schurr
 
 ## Leiden University ##
 
@@ -52,7 +59,9 @@
 
 ## University of Houston ##
 
+- Matthew Davis
 - Christopher Rivera
+- Megan Truax
 
 ## Washington University ##
 
@@ -63,10 +72,7 @@
 Abby Branch
 David Gleeson
 Peter Collins
-Matthew Davis
 Leah Elder
 Tucker Hannah
-Amy Koenig
 Katie Phillips
 Annalisa Quinn
-Emily Schurr

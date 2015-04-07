@@ -47,7 +47,13 @@
 
 - [Bird, G. _Multitextuality in the Homeric Iliad: The Witness of Ptolemaic Papyri._ Center for Hellenic Studies, 2010.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4855)
 
+### Ilias Picta ###
 
+- Carla Castelli,  Euripide, Angelo Mai e l'Ilias Picta, in Miscellanea Graecolatina I, a c. di F. Gallo,  Bulzoni, Milano-Roma 2013,  49-64.
+
+- —,  Due scolî a Iliade I 1 nei supporti cartacei dell’Ilias Picta: considerazioni e prospettive di indagine, «Koinonia», 37 (2013),  225-234.
+
+- —, (forthcoming) Omero e homerica nell’Ilias Picta, in Miscellanea Graecolatina III, Bulzoni, Milano-Roma 2016.
 
 
 The Editors of the Homer Multitext invite scholars to submit bibliographic citations to publications that have profited from the resources made available by this project.
