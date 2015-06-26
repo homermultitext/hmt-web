@@ -13,3 +13,4 @@ hmt-image-archive.md=Archive of downloadable images
 publications.md=Publications
 VenA-Introduction-2014.md=Introduction to the Venetus A
 Due&Ebbott_Homer-in-the-Escorial.pdf=Introduction to the Escorial
+chsseminars.md=Overview of HMT Summer Seminars
