@@ -14,3 +14,4 @@ publications.md=Publications
 VenA-Introduction-2014.md=Introduction to the Venetus A
 Due&Ebbott_Homer-in-the-Escorial.pdf=Introduction to the Escorial
 chsseminars.md=Overview of HMT Summer Seminars
+contributors.md=A list of contributors to the HMT

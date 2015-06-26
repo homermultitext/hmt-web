@@ -69,10 +69,12 @@
 - Ian James
 - Malia Piper
 
-Abby Branch
-David Gleeson
-Peter Collins
-Leah Elder
-Tucker Hannah
-Katie Phillips
-Annalisa Quinn
+## And Others ##
+
+- Abby Branch
+- David Gleeson
+- Peter Collins
+- Leah Elder
+- Tucker Hannah
+- Katie Phillips
+- Annalisa Quinn

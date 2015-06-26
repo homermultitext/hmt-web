@@ -22,7 +22,7 @@
     - [Casey Dué, Mary Ebbott: “Digital Criticism: Editorial Standards for the Homer Multitext”.](http://digitalhumanities.org/dhq/vol/3/1/000029/000029.html)
     - [Christopher Blackwell, Gregory Crane: “Conclusion: Cyberinfrastructure, the Scaife Digital Library and Classics in a Digital age”.](http://digitalhumanities.org/dhq/vol/3/1/000035/000035.html)
 - [Dué, C. and M. Ebbott. “Digital Criticism: Editorial Standards for the Homer Multitext.” _Digital Humanities Quarterly_ 3.1 (Winter, 2009).](http://www.digitalhumanities.org/dhq/vol/003/1/000029/000029.html)
-- Nagy, G. “[Homer Multitext project](http://chs.harvard.edu/cgi-bin/WebObjects/workbench.woa/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4087).” In Online Humanities Scholarship: The Shape of Things to Come, ed. J. McGann. Rice University Press, 2010.
+- Nagy, G. “[Homer Multitext project](http://chs.harvard.edu/CHS/article/display/4087).” In Online Humanities Scholarship: The Shape of Things to Come, ed. J. McGann. Rice University Press, 2010.
 - Smith, N. “Digital infrastructure and the Homer Multitext project.” In _Digital Research in the Study of Classical Antiquity,_ edited by G. Bodard and S. Mahony. Ashgate, 2010.
 - [Smith, N. “Citation in Classical Studies.” _Digital Humanities Quarterly_ 3.1 (Winter, 2009).](http://www.digitalhumanities.org/dhq/vol/3/1/000028/000028.html)
 - [Smith, N., Weaver, G., “Applying Domain Knowledge from Structured Citation Formats to Text and Data Mining: Examples Using the CITE Architecture” _Dartmouth Computer Science Technical Report TR2009-649_ 2009.](http://katahdin.cs.dartmouth.edu/reports/TR2009-649.pdf)
