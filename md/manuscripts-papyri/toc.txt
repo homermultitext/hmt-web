@@ -7,3 +7,4 @@ omega-1-12.md=About the Omega 1.12
 genavensis44.md=About the Genavensis 44
 papyri.md=About the Homeric Papyri
 VenA-Introduction-2014.md=Introduction to the Venetus A
+Due&Ebbott_Homer-in-the-Escorial.pdf=Introduction to the Escorial

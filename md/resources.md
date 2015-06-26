@@ -3,7 +3,7 @@
 
 
 - Initial notes on [paleography of Venetus A](summer2014/palguide.pdf)
-- HMT project guide for editors:  [2013 edition](http://www.homermultitext.org/hmt-docs/HMTstyle-preview.pdf)
+- HMT project guide for editors:  [2013 edition](http://homermultitext.github.io/hmt-editors-guide/editorial-policies/)
 - Searchable [authority lists](https://github.com/homermultitext/hmt-authlists/tree/master/data) for personal name and place name identifiers
 - Some [pdfs of relevant public-domain publications](http://www.homermultitext.org/pd-pdfs/), including:
     - Dindorf edition of Venetus A scholia, [vol. 1](http://www.homermultitext.org/pd-pdfs/Dindorfius1875a.pdf)
