@@ -6,7 +6,7 @@ The manuscript consists of 338 folios (40.5 x 31.5 cm). The 11th-century text an
 ## Links ##
 
 - [Manuscript browser][1]
-- Newer test version of [manuscript browser][3]
+- Newer test version of [manuscript browser][3] (less stable)
 - [Downloadable data][2]
 
 ## Related publications and scholarship ##
