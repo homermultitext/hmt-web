@@ -1,4 +1,4 @@
-# Contributors #
+# Roster of contributors #
 
 ## Brandeis University ##
 

@@ -8,7 +8,7 @@ Escorial Y I.1 (=Allen's E3, West E) is an 11th century parchment codex consisti
 - [Downloadable data][2]
 
 ## Related publications and scholarship ##
-- Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF](Due&Ebbott_Homer-in-the-Escorial.pdf)
+- Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF][escorialpdf]
 - [Articles on the Escorial Y I.1 from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Escorial%20Υ.1.1)
 
 
@@ -18,3 +18,5 @@ Escorial Y I.1 (=Allen's E3, West E) is an 11th century parchment codex consisti
 [1]: http://www.homermultitext.org/hmt-digital/mss
 
 [2]: http://www.homermultitext.org/hmt-image-archive.html
+
+[escorialpdf]: http://www.homermultitext.org/Pubs/Due-Ebbott_Homer-in-the-Escorial.pdf

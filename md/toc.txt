@@ -2,6 +2,7 @@ index.md=The Homer Multitext project: home page
 about-main.md=About the project
 about.md=About the project
 collaboration.md=Collaboration
+contributors.md=Roster of contributors
 news.md=News about the project
 hmt-archive.md= The HMT project digital archive
 maven.md=Maven identifiers for published issues of the HMT archive
