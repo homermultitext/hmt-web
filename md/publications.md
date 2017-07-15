@@ -1,5 +1,8 @@
 # Related Publications #
 
+## On Homer Multitext
+- [Dué, C. and M. Ebbott. "The Homer Multitext and the System of Homeric Epic"](https://chs.harvard.edu/CHS/article/display/6524)
+
 ## On Homeric Poetry ##
 
 - [Dué, C. "Achilles' Golden Amphora in Aeschines' Against Timarchus and the Afterlife of Oral Tradition."](http://www.stoa.org/hopper/text.jsp?doc=Stoa:text:2003.01.0005) *Classical Philology* 96 (2001): 33-47.
@@ -34,15 +37,17 @@
 
 - Dué, C., ed. _Recapturing a Homeric Legacy: Images and Insights from the Venetus A Manuscript of the Iliad._ Center for Hellenic Studies, 2009. [PDF](http://www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf) | [Catalogue](http://www.hup.harvard.edu/catalog.php?recid=29425)
 - [Dué, C. and M. Ebbott. _An introduction to the Homer Multitext edition of the Venetus A manuscript of the *Iliad*_. The Homer Multitext, first published 2014.](VenA-Introduction-2014.html)
+- Smith, N., Browne, M., Lindeborg, S., Churik, N., Musgrave, R., Clark, B., Angillilo, M., Arralde, T. ["Sunoiksis: the Homer Multitext project"](http://wp.chs.harvard.edu/surs/2014/08/01/homer-multitext-project/)
 
 ### The Escorial Upsilon I.1 ###
 
 - Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF](http://www.homermultitext.org/Pubs/Due-Ebbott_Homer-in-the-Escorial.pdf)
+- Smith, N., Browne, M., Lindeborg, S., Churik, N., Musgrave, R., Clark, B., Angillilo, M., Arralde, T. ["Sunoiksis: the Homer Multitext project"](http://wp.chs.harvard.edu/surs/2014/08/01/homer-multitext-project/)
 
 ### The Escorial Omega I.12 ###
 
 - Dué, C. and M. Ebbott. "Homer in the Escorial," The Homer Multitext, first published 2014. [PDF](http://www.homermultitext.org/Pubs/Due-Ebbott_Homer-in-the-Escorial.pdf)
-- 
+-
 ### Papyri ###
 
 - [Bird, G. _Multitextuality in the Homeric Iliad: The Witness of Ptolemaic Papyri._ Center for Hellenic Studies, 2010.](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=4855)
@@ -55,9 +60,11 @@
 
 - —, (forthcoming) Omero e homerica nell’Ilias Picta, in Miscellanea Graecolatina III, Bulzoni, Milano-Roma 2016.
 
+### Marciana 841 ###
+- Smith, N., Browne, M., Lindeborg, S., Churik, N., Musgrave, R., Clark, B., Angillilo, M., Arralde, T. ["Sunoiksis: the Homer Multitext project"](http://wp.chs.harvard.edu/surs/2014/08/01/homer-multitext-project/)
+
 
 The Editors of the Homer Multitext invite scholars to submit bibliographic citations to publications that have profited from the resources made available by this project.
 
 
 C. Dué, M. Ebbott, C. Blackwell, N. Smith
-  
